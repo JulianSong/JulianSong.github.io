@@ -8,9 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : I am Julian
 tagline: Site Tagline
-author :
+author : Julian
   name : Julian Song
   email : geeksong@gmail.com
   github : JulianSong
